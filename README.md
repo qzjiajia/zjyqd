@@ -12,9 +12,16 @@
 
 或者创建数据库zjy，导入源码里的zjy.sql
 ![](https://tu.yaohuo.me/imgs/2021/02/709d72da6dd4b04f.png)
+
 2.将源码上传到网站的根目录
-3.修改config目录下mysql.php文件的配置
+
+
+4.修改config目录下mysql.php文件的配置
+
+
 4修改cs.php的第15行为自己网站访问的域名
+
+
 5设置定时任务（宝塔界面可以进入计划任务设置）,每分钟访问一次域名下cs.php就可以了
 
 ![](https://tu.yaohuo.me/imgs/2021/02/951ac2f3bf755cb5.png)
