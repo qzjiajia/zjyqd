@@ -5,6 +5,7 @@
 
 [示例网站](http://zjy.feidanyl.top)
 
+<p color=red>问题：手势签到无法签到，会一直提示请将app更新到最新版本</p>
 
 使用方法：
 
